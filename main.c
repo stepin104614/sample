@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include "mul.h"
 int main()
 {
 int a,b,c;
